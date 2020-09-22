@@ -1,0 +1,5 @@
+SendInput API, Send Keyboard Hit (Down/Up), Send Mouse Click (Down/Up): 
+Run MSPaint then send mouse events to draw a picture.
+Run any App then control it...
+
+Truong2D@Yahoo.com
